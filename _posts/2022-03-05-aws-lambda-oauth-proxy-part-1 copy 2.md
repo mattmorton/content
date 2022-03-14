@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Serverless Oauth - AWS Lambda + Grant"
 date:   2022-03-05 08:23:13 +1100
 ---
