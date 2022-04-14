@@ -117,6 +117,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2.1)
   jekyll-feed (~> 0.12)
+  jekyll-include-cache
   jekyll-paginate
   minima (~> 2.5)
   minimal-mistakes-jekyll
